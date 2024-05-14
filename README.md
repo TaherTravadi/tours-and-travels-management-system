@@ -1,2 +1,2 @@
 # tours-and-travels-management-system
-i have created this system in PHP , CSS , JS , HTML .
+i have created this tour and travel management system in PHP, HTML, CSS ,JS.
